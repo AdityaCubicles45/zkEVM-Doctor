@@ -6,7 +6,7 @@ import ModelList from './ModelList';
 function App() {
   return (
     <div className="App">
-      <h1>zkDoctor</h1>
+      <h1>zkEVM-Doctor</h1>
       <ModelList />
     </div>
   );
