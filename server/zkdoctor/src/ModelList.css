@@ -1,0 +1,57 @@
+.model-list {
+    font-family: Arial, sans-serif;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .model-cell {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 50%;
+  }
+  
+  .model-info {
+    text-align: center;
+  }
+  
+  .model-info img {
+    max-width: 100px;
+    margin-bottom: 15px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .model-subsection {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .model-subsection h4 {
+    margin-top: 0;
+  }
+  
+  .model-subsection input {
+    display: block;
+    margin-top: 10px;
+    padding: 5px;
+  }
+
+  .verification-status {
+    margin-top: 10px;
+    font-weight: bold;
+    color: green;
+  }
+
+  .verification-status-failed {
+    color: red;
+  }
